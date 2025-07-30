@@ -35,10 +35,5 @@
 
 ---
 
-## 📈 GitHub Stats
-![João Bosco GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-
----
-
 ## 🌐 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/joao-bosco-7412a4227/))
